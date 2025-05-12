@@ -17,8 +17,10 @@
 
 - [x] Modela progresivamente atributos, métodos y relaciones entre clases.
 
-- [ ] Genera un diagrama UML en formato .svg con PlantUML.
+- [x] Genera un diagrama UML en formato .svg con PlantUML.
 
-- [ ] Inserta el diagrama en el README.md con:
+- [x] Inserta el diagrama en el README.md con:
 
       ![Diagrama de clases](uml/diagrama_clases.svg)
+
+![Diagrama de clases](uml/diagramaClases.svg)
