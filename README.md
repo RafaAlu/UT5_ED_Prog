@@ -6,16 +6,16 @@
 
 - [x] Añade un README.md con una checklist de tareas.
 
-- [ ] Crea una carpeta uml/ con un fichero .puml por cada clase detectada, con esta estructura inicial:
+- [x] Crea una carpeta uml/ con un fichero .puml por cada clase detectada, con esta estructura inicial:
 
       @startuml
       class Vehiculo {
       }
       @enduml
 
-- [ ] Haz el primer commit con la estructura base súbelo al remoto (github).
+- [x] Haz el primer commit con la estructura base súbelo al remoto (github).
 
-- [ ] Modela progresivamente atributos, métodos y relaciones entre clases.
+- [x] Modela progresivamente atributos, métodos y relaciones entre clases.
 
 - [ ] Genera un diagrama UML en formato .svg con PlantUML.
 
